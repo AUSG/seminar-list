@@ -67,6 +67,8 @@
 </p>
 
 
+---  
+
 
 ## 1기 세미나
 
@@ -138,4 +140,29 @@
 <p align="center">
 <img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/jeehyuk_break_1.jpg?raw=true" />
 </p>
+
+---
+
+### 외부 세미나 - 기술 세미나
+---
+
+### Community Day 2018 : App Sync, 모바일 개발을 위한 GraphQL as a Service
+
+* 발표자 : [원지혁](http://github.com/jeehyukwon)
+* 날짜 : 2018.01.20
+* 자료 : [Youtube 링크](https://www.youtube.com/watch?v=chUsMVg04nU)
+
+
+<p align="center">
+<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/jeehyuk_communityday_1.jpg?raw=true" />
+<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/jeehyuk_communityday_2.jpg?raw=true" />
+</p>
+
+---
+
+### Unithon Seminar : Wildrydes 서버리스 웹 애플리케이션 워크샵
+
+* 발표자 : [유호균](https://github.com/philographer)
+* 날짜 : 2018.01.26
+* 자료 : [github repo](https://github.com/AUSG/unithon-serverless-2018)
 
