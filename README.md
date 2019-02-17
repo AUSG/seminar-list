@@ -62,8 +62,8 @@
 
 
 <p align="center">
-<img width="400" src="https://github.com/AUSG/Seminar-List/blob/master/images/yebon_recap_1.jpeg?raw=true">
-<img width="400" src="https://github.com/AUSG/Seminar-List/blob/master/images/yebon_recap_2.jpeg?raw=true">
+<img width="400" src="https://github.com/AUSG/Seminar-List/blob/master/images/yebon_recap_1.JPG?raw=true">
+<img width="400" src="https://github.com/AUSG/Seminar-List/blob/master/images/yebon_recap_2.JPG?raw=true">
 </p>
 
 
@@ -101,5 +101,37 @@
 
 ---
 
+### 3차 세미나 : AWS로 구현하는 손쉬운 앱 로그인 with AWS Cognito
+
+* 발표자 : [김종찬](https://github.com/acious)
+* 날짜 : 2018.02.01
+* 자료 : [github repo](https://github.com/awslabs/aws-sdk-android-samples/tree/master/AmazonCognitoAuthDemo)
+
+
+<p align="center">
+<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/jongchan_break_1.jpeg?raw=true" />
+<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/jongchan_break_2.jpeg?raw=true" />
+</p>
+
+---
+
+### 4차 세미나 : 무료 이미지 리사이즈 서비스 만들기
+
+* 발표자 : [한만혁](https://github.com/ManHyuk)
+* 날짜 : 2018.02.08
+* 자료 : [github repo](https://github.com/ManHyuk/ausg-seminar-2018)
+
+
+<p align="center">
+<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/manhyuk_break_1.jpg?raw=true" />
+</p>
+
+---
+
+### 5차 세미나 : 자바스크립트로 트렌디한 웹개발과 쉬운 배포 경험하기
+
+* 발표자 : [원지혁](https://github.com/jeehyukwon)
+* 날짜 : 2018.02.19
+* 자료 : [github repo](https://github.com/AUSG/ausg-seminar-2018/tree/master/TrendyWebDev)
 
 
