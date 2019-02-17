@@ -166,3 +166,66 @@
 * 날짜 : 2018.01.26
 * 자료 : [github repo](https://github.com/AUSG/unithon-serverless-2018)
 
+---
+
+### 한양대 창업동아리 박람회
+
+* 발표자 : [남궁선](https://github.com/whitesoil)
+* 날짜 : 2018.03.29
+* 주제 : AUSG 소개
+* 자료 : [발표자료](https://docs.google.com/file/d/1264IGn-Hy_Igv7UOmlHd1MsOK9E3UKq_/edit?usp=docslist_api&filetype=mspresentation)
+
+<p align="center">
+<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/seon_startup_1.png?raw=true" />
+<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/seon_startup_2.png?raw=true" />
+</p>
+
+* 발표자 : [박소정]()
+* 날짜 : 2018.03.29
+* 주제 : Amazon Web Services 클라우드 소개와 사례
+
+<p align="center">
+<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/sojeong_startup_1.png?raw=true" />
+<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/sojeong_startup_2.png?raw=true" />
+</p>
+
+---
+
+### 한양대 Erica 게릴라 세미나 : AWS를 사용하여 웹페이지를 서버에 업로드하고 도메인을 등록해 웹페이지를 서비스해보기
+
+* 발표자 : [남궁선](https://github.com/whitesoil)
+* 날짜 : 2018.04.18
+* 자료 : [github repo](https://github.com/whitesoil/AUSG-LikeLion)
+
+<p align="center">
+<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/seon_hanyang_guerrilla_1.JPG?raw=true" />
+<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/seon_hanyang_guerrilla_2.JPG?raw=true" />
+</p>
+
+---
+
+### AWS Summit Seoul 2018 : Serverless로 이미지 프로토타입 개발기
+
+* 발표자 : [유호균](https://github.com/philographer)
+* 날짜 : 2018.04.18
+
+<p align="center">
+<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/hogyun_summit_1.jpg?raw=true" />
+<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/hogyun_summit_2.jpg?raw=true" />
+</p>
+
+---
+
+### 삼성 SDS 세미나 : REST의 고통은 이제 그만, 차근차근 GraphQL 시작하기
+
+* 발표자 : [원지혁](http://github.com/jeehyukwon)
+* 날짜 : 2018.05.02
+* 자료 : [Youtube 링크](https://www.youtube.com/watch?v=-qtPfRSxwXA)
+
+<p align="center">
+<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/jeehyuk_sds_1.jpeg?raw=true" />
+<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/jeehyuk_sds_2.jpeg?raw=true" />
+</p>
+
+---
+
