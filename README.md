@@ -22,3 +22,18 @@
 </p>
 
 ---
+
+### 2차 세미나 : 팀플 과제를 여행하는 히치하이커를 위한 안내서 with AWS C9, AWS Elastic Beanstalk
+
+* 발표자 : [유호균](https://github.com/philographer)
+* 날짜 : 2018.01.25
+* 자료 : [github repo](https://github.com/awskrug/ausg-seminar-2018/tree/master/teamplay) 
+
+
+<p align="center">
+<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/hogyun_break_1.jpeg?raw=true" />
+<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/hogyun_break_2.jpeg?raw=true" />
+</p>
+
+---
+
