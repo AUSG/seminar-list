@@ -135,3 +135,7 @@
 * 자료 : [github repo](https://github.com/AUSG/ausg-seminar-2018/tree/master/TrendyWebDev)
 
 
+<p align="center">
+<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/jeehyuk_break_1.jpg?raw=true" />
+</p>
+
