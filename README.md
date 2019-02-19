@@ -31,7 +31,7 @@
 
 <p align="center">
 <img width="400" src="https://github.com/AUSG/Seminar-List/blob/master/images/sangyeol_break_1.JPG?raw=true">
-<img width="400" style="transform:rotate(90deg);" src="https://github.com/AUSG/Seminar-List/blob/master/images/sangyeol_break_2.JPG?raw=true">
+<img width="400" style="transform:rotate(180deg);" src="https://github.com/AUSG/Seminar-List/blob/master/images/sangyeol_break_2.JPG?raw=true">
 </p>
 
 ------
