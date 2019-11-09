@@ -4,6 +4,10 @@
  <img width="300" src="https://github.com/AUSG/Seminar-List/blob/master/images/ausg_logo.png?raw=true"/>
 </p>
 
+## 3기 세미나
+
+---
+
 ## 2기 세미나
 
 ### 초보자를 위한 AWS 뿌시기 세미나 🤜🤛
