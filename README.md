@@ -12,46 +12,9 @@
 
 ### 초보자를 위한 AWS 뿌시기 세미나 🤜🤛
 
-### 21차 세미나 : Amathon 사전세션 - Amplify로 풀사이클 개발 체험하기
-
-- 발표자 : [고명진](https://github.com/rayleighko)
-- 날짜 : 2019.08.29
-- 자료 : [Github Repo](https://github.com/rayleighko/amathon-amplify-FCD)
-
-<p align="center">
-<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/amathon_amplify_1.jpeg">
-<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/amathon_amplify_2.jpeg">
-</p>
-
 ---
 
-### 20차 세미나 : Amathon 사전세션 - 클라우드 컨테이너 환경에서 Back-end API 구성하기 AtoZ
-
-- 발표자 : [고윤호](https://github.com/yoonhoGo)
-- 날짜 : 2019.08.29
-- 자료 : [Github Repo](https://github.com/yoonhoGo/2019-amathon-session/blob/master/README.md)
-
-<p align="center">
-<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/amathon_backend_1.jpeg">
-<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/amathon_backend_2.jpeg">
-</p>
-
----
-
-### 19차 세미나 : Amathon 사전세션 - Circle CI + ElasticBeanstalk을 활용한 React 배포 자동화
-
-- 발표자 : [윤서현](https://github.com/seohyun0120)
-- 날짜 : 2019.08.29
-- 자료 : [Github Repo](https://github.com/seohyun0120/amathon-eb-circleci/blob/master/README.md/)
-
-<p align="center">
-<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/amathon_circleci_1.jpeg">
-<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/amathon_circeci_2.jpeg">
-</p>
-
----
-
-### 18차 세미나 : 얼굴 분석을 통한 표정에 알맞은 음악 추천 iOS 어플리케이션
+### 17차 세미나 : 얼굴 분석을 통한 표정에 알맞은 음악 추천 iOS 어플리케이션
 
 - 발표자 : [김예은](https://github.com/kyeahen)
 - 날짜 : 2019.07.24
@@ -60,18 +23,6 @@
 <p align="center">
 <img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/ios3_1.jpeg">
 <img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/ios3_2.jpeg">
-</p>
-
----
-
-### 17차 세미나 : AUSG X 피로그래밍 세미나
-
-- 발표자 : [조민지](https://github.com/jominjimail)
-- 날짜 : 2019.07.22
-
-<p align="center">
-<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/programming1_1.jpg">
-<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/programming1_2.jpg">
 </p>
 
 ---
@@ -222,6 +173,57 @@
 ### 외부 세미나 🤗
 
 ------
+
+### Amathon 사전세션 - Amplify로 풀사이클 개발 체험하기
+
+- 발표자 : [고명진](https://github.com/rayleighko)
+- 날짜 : 2019.08.29
+- 자료 : [Github Repo](https://github.com/rayleighko/amathon-amplify-FCD)
+
+<p align="center">
+<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/amathon_amplify_1.jpeg">
+<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/amathon_amplify_2.jpeg">
+</p>
+
+---
+
+### Amathon 사전세션 - 클라우드 컨테이너 환경에서 Back-end API 구성하기 AtoZ
+
+- 발표자 : [고윤호](https://github.com/yoonhoGo)
+- 날짜 : 2019.08.29
+- 자료 : [Github Repo](https://github.com/yoonhoGo/2019-amathon-session/blob/master/README.md)
+
+<p align="center">
+<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/amathon_backend_1.jpeg">
+<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/amathon_backend_2.jpeg">
+</p>
+
+---
+
+### Amathon 사전세션 - Circle CI + ElasticBeanstalk을 활용한 React 배포 자동화
+
+- 발표자 : [윤서현](https://github.com/seohyun0120)
+- 날짜 : 2019.08.29
+- 자료 : [Github Repo](https://github.com/seohyun0120/amathon-eb-circleci/blob/master/README.md/)
+
+<p align="center">
+<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/amathon_circleci_1.jpeg">
+<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/amathon_circeci_2.jpeg">
+</p>
+
+---
+
+### AUSG X 피로그래밍 세미나
+
+- 발표자 : [조민지](https://github.com/jominjimail)
+- 날짜 : 2019.07.22
+
+<p align="center">
+<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/programming1_1.jpg">
+<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/programming1_2.jpg">
+</p>
+
+---
 
 ### AWS Community Day re:cap : 블록체인 원장 DB를 클라우드로 QLDB
 
