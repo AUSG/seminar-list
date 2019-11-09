@@ -8,6 +8,172 @@
 
 ### 초보자를 위한 AWS 뿌시기 세미나 🤜🤛
 
+### 21차 세미나 : Amathon 사전세션 - Amplify로 풀사이클 개발 체험하기
+
+- 발표자 : [고명진](https://github.com/rayleighko)
+- 날짜 : 2019.08.29
+- 자료 : [Github Repo](https://github.com/rayleighko/amathon-amplify-FCD)
+
+<p align="center">
+<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/amathon_amplify_1.jpeg">
+<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/amathon_amplify_2.jpeg">
+</p>
+
+---
+
+### 20차 세미나 : Amathon 사전세션 - 클라우드 컨테이너 환경에서 Back-end API 구성하기 AtoZ
+
+- 발표자 : [고윤호](https://github.com/yoonhoGo)
+- 날짜 : 2019.08.29
+- 자료 : [Github Repo](https://github.com/yoonhoGo/2019-amathon-session/blob/master/README.md)
+
+<p align="center">
+<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/amathon_backend_1.jpeg">
+<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/amathon_backend_2.jpeg">
+</p>
+
+---
+
+### 19차 세미나 : Amathon 사전세션 - Circle CI + ElasticBeanstalk을 활용한 React 배포 자동화
+
+- 발표자 : [윤서현](https://github.com/seohyun0120)
+- 날짜 : 2019.08.29
+- 자료 : [Github Repo](https://github.com/seohyun0120/amathon-eb-circleci/blob/master/README.md/)
+
+<p align="center">
+<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/amathon_circleci_1.jpeg">
+<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/amathon_circeci_2.jpeg">
+</p>
+
+---
+
+### 18차 세미나 : 얼굴 분석을 통한 표정에 알맞은 음악 추천 iOS 어플리케이션
+
+- 발표자 : [김예은](https://github.com/kyeahen)
+- 날짜 : 2019.07.24
+- 자료 : [Github Repo](https://github.com/AUSG/ausg-seminar-2019)
+
+<p align="center">
+<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/ios3_1.jpeg">
+<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/ios3_2.jpeg">
+</p>
+
+---
+
+### 17차 세미나 : AUSG X 피로그래밍 세미나
+
+- 발표자 : [조민지](https://github.com/jominjimail)
+- 날짜 : 2019.07.22
+
+<p align="center">
+<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/programming1_1.jpg">
+<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/programming1_2.jpg">
+</p>
+
+---
+
+### 16차 세미나 : 프론트 개발자도 혼자 iOS 어플리케이션 만들 수 있다구요!
+
+- 발표자 : [정초이](https://github.com/iamcho2)
+- 날짜 : 2019.07.10
+- 자료 : [Github Repo](https://github.com/AUSG/ausg-seminar-2019)
+
+<p align="center">
+<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/ios2_1.jpeg">
+<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/ios2_2.jpeg">
+</p>
+
+---
+
+### 15차 세미나 : 별점에 따라 표시가 다른 맛집 지도 만들기
+
+- 발표자 : [김재희](https://github.com/jaehui327)
+- 날짜 : 2019.07.03
+- 자료 : [Github Repo](https://github.com/AUSG/ausg-seminar-2019)
+
+<p align="center">
+<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/ios1_1.jpeg">
+<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/ios1_2.jpeg">
+</p>
+
+---
+
+### 14차 세미나 : Android 초성퀴즈 앱 만들기
+
+- 발표자 : [김예본](https://github.com/yebonkim)
+- 날짜 : 2019.06.26
+- 자료 : [Github Repo](https://github.com/AUSG/ausg-seminar-2019)
+
+<p align="center">
+<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/android2_1.jpeg">
+<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/android2_2.jpeg">
+</p>
+
+---
+
+### 13차 세미나 : Android Track 사전세션
+
+- 발표자 : [김예본](https://github.com/yebonkim)
+- 날짜 : 2019.06.24
+- 자료 : [Github Repo](https://github.com/AUSG/ausg-seminar-2019)
+
+<p align="center">
+<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/android1_1.jpeg">
+<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/android1_2.jpeg">
+</p>
+
+---
+
+### 12차 세미나 : 문자열 이미지를 텍스트로 변환해보기
+
+- 발표자 : [편주영](https://github.com/ravieeeee)
+- 날짜 : 2019.06.05
+- 자료 : [Github Repo](https://github.com/AUSG/ausg-seminar-2019)
+
+<p align="center">
+<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/web4_1.jpeg">
+<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/web4_2.jpeg">
+</p>
+
+---
+
+### 11차 세미나 : 프론트 개발자도 혼자 웹 어플리케이션 만들 수 있어요
+
+- 발표자 : [정초이](https://github.com/iamcho2)
+- 날짜 : 2019.05.29
+- 자료 : [Github Repo](https://github.com/AUSG/ausg-seminar-2019)
+
+<p align="center">
+<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/web3_1.jpeg">
+<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/web3_2.jpeg">
+</p>
+
+---
+
+### 10차 세미나 : AWS와 CRA로 게임을 뚝딱!
+
+- 발표자 : [고명진](https://github.com/rayleighko)
+- 날짜 : 2019.05.22
+- 자료 : [Github Repo](https://github.com/AUSG/ausg-seminar-2019)
+
+<p align="center">
+<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/web2_1.jpeg">
+<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/web2_2.jpeg">
+</p>
+
+---
+
+### 9차 세미나 : Web Track 사전세션
+
+- 발표자 : [원지혁](https://github.com/tonyfromundefined)
+- 날짜 : 2019.05.15
+- 자료 : [Github Repo](https://github.com/AUSG/ausg-seminar-2019)
+
+<p align="center">
+<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/web1_1.jpeg">
+<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/web1_2.jpeg">
+</p>
+
 ------
 
 ### 8차 세미나 : AWS 계정을 갓 생성한 초보자를 위한 세미나
