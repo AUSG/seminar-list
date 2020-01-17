@@ -6,6 +6,21 @@
 
 ## 3기 세미나
 
+### AUSG::초보자를 위한 AWS 뿌시기
+
+---
+
+### 18차 세미나 : AWS AppSync로 만드는 서버리스 GraphQL 서비스 (ft. AWS Amplify)
+
+- 발표자 : [김정모](https://github.com/cadenzah)
+- 날짜 : 2020.01.15
+- 자료 : [Github Repo](https://github.com/cadenzah/ausg-2020-handson-appsync)
+
+<p align="center">
+<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/ios3_1.jpeg">
+<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/ios3_2.jpeg">
+</p>
+
 ---
 
 ## 2기 세미나
@@ -60,8 +75,8 @@
 - 자료 : [Github Repo](https://github.com/AUSG/ausg-seminar-2019)
 
 <p align="center">
-<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/android2_1.jpeg">
-<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/android2_2.jpeg">
+<img width="400" src="https://secure.meetupstatic.com/photos/event/4/2/4/7/600_488176967.jpeg">
+<img width="400" src="https://secure.meetupstatic.com/photos/event/4/2/5/0/600_488176976.jpeg">
 </p>
 
 ---
