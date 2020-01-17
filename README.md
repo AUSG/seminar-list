@@ -17,8 +17,8 @@
 - 자료 : [Github Repo](https://github.com/cadenzah/ausg-2020-handson-appsync)
 
 <p align="center">
-<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/ios3_1.jpeg">
-<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/ios3_2.jpeg">
+<img width="400" src="https://secure.meetupstatic.com/photos/event/4/2/4/7/600_488176967.jpeg">
+<img width="400" src="https://secure.meetupstatic.com/photos/event/4/2/5/0/600_488176976.jpeg">
 </p>
 
 ---
