@@ -75,8 +75,8 @@
 - 자료 : [Github Repo](https://github.com/AUSG/ausg-seminar-2019)
 
 <p align="center">
-<img width="400" src="https://secure.meetupstatic.com/photos/event/4/2/4/7/600_488176967.jpeg">
-<img width="400" src="https://secure.meetupstatic.com/photos/event/4/2/5/0/600_488176976.jpeg">
+<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/android2_1.jpeg">
+<img width="400" src="https://github.com/AUSG/seminar-list/blob/master/images/android2_2.jpeg">
 </p>
 
 ---
